@@ -1,5 +1,5 @@
-## Hi there 👋
-
+##👋
+Building software, learning full-stack development, and working on products that solve real problems.
 <!--
 **Ameerr2K/Ameerr2K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
